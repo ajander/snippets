@@ -1,3 +1,7 @@
+# See documentation for more info:  
+# https://docs.python.org/3/tutorial/modules.html
+
+
 a = 5
 b = 7
 
